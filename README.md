@@ -1,8 +1,8 @@
 # Use this list to totally block access to tiktok and youtube on your network.
 ## Note: this list could block access to / break other Bytedance products and Apps
 
-youtube-nocookie.com
-m.youtube-nocookie.com
+youtube-nocookie.com</br>
+m.youtube-nocookie.com</br>
 m.youtu.be
 m.youtube.com
 www.youtube-nocookie.com
